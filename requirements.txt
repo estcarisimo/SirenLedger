@@ -1,0 +1,5 @@
+cffi==1.17.1
+numpy==1.26.4
+pycparser==2.22
+sounddevice==0.5.2
+tflite-runtime==2.14.0

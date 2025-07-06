@@ -99,4 +99,4 @@ sudo systemctl enable --now siren-counter
 
 ---
 
-**Happy measuring, and may your Pi count sirens serenely!**# SirenLedger
+**Happy measuring, and may your Pi count sirens serenely!**
