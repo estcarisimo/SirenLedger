@@ -1,0 +1,83 @@
+# Git and version control
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Local data and logs
+data/
+logs/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration files (may contain secrets)
+config/
+*.env
+.env*
+
+# Model files (downloaded at runtime)
+yamnet.tflite
+yamnet_label_list.txt
+
+# Legacy files
+siren_counter.py
+siren_daily_counts.csv
+
+# Documentation
+docs/
+# Note: Keep README.md and LICENSE for package metadata
+# *.md  
+# LICENSE
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Development tools
+.pre-commit-config.yaml
